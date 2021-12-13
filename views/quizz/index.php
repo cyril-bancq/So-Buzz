@@ -200,7 +200,7 @@
                 <button type="sumbit" class="btn btn-primary btn-lg w-100">Envoyer le Quiz</button>  
             </form>
         </div>
-        <a href=""></a>
+        <?php require('test.php') ?>
     </main>
 </body>
 </html>
